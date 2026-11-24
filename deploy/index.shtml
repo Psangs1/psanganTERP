@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Deployment Page</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <ul>
+    <li><strong>Name: </strong>Parth Sangani</li>
+    <li><strong>GitHub Location: </strong><a href="YOUR_GITHUB_REPO_URL">YOUR_GITHUB_REPO_URL</a></li>
+    <li><strong>Render Location: </strong><a href="YOUR_RENDER_URL/">YOUR_RENDER_URL/</a></li>
+    <li><strong>Clearing Database Movies: </strong><a href="YOUR_RENDER_URL/clearCollection">YOUR_RENDER_URL/clearCollection</a></li> 
+    <li><strong>Inserting Movies: </strong><a href="YOUR_RENDER_URL/insertMovies">YOUR_RENDER_URL/insertMovies</a></li> 
+    <li><strong>List Movies: </strong><a href="YOUR_RENDER_URL/listMovies">YOUR_RENDER_URL/listMovies</a></li> 
+  </ul>
+</body>
+
+</html>
