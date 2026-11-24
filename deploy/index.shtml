@@ -11,11 +11,17 @@
 <body>
   <ul>
     <li><strong>Name: </strong>Parth Sangani</li>
-    <li><strong>GitHub Location: </strong><a href="https://github.com/Psangs1/psanganTERP">https://github.com/Psangs1/psanganTERP</a></li>
-    <li><strong>Render Location: </strong><a href="https://psanganterp.onrender.com/">https://psanganterp.onrender.com/</a></li>
-    <li><strong>Clearing Database Movies: </strong><a href="https://psanganterp.onrender.com/clearCollection">https://psanganterp.onrender.com/clearCollection</a></li> 
-    <li><strong>Inserting Movies: </strong><a href="https://psanganterp.onrender.com/insertMovies">https://psanganterp.onrender.com/insertMovies</a></li> 
-    <li><strong>List Movies: </strong><a href="https://psanganterp.onrender.com/listMovies">https://psanganterp.onrender.com/listMovies</a></li> 
+    <li><strong>GitHub Location: </strong><a
+        href="https://github.com/Psangs1/psanganTERP">https://github.com/Psangs1/psanganTERP</a></li>
+    <li><strong>Render Location: </strong><a
+        href="https://psanganterp.onrender.com/">https://psanganterp.onrender.com/</a></li>
+    <li><strong>Clearing Database Movies: </strong><a
+        href="https://psanganterp.onrender.com/clearCollection">https://psanganterp.onrender.com/clearCollection</a>
+    </li>
+    <li><strong>Inserting Movies: </strong><a
+        href="https://psanganterp.onrender.com/insertMovies">https://psanganterp.onrender.com/insertMovies</a></li>
+    <li><strong>List Movies: </strong><a
+        href="https://psanganterp.onrender.com/listMovies">https://psanganterp.onrender.com/listMovies</a></li>
   </ul>
 </body>
 
